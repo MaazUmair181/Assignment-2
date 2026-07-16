@@ -1,5 +1,5 @@
 
-//  Task 1 – Greeting User
+// //  Task 1 – Greeting User
 
 // let greetUser = prompt("Please enter your name:");
 // let userAge = prompt("Please enter your age:");
@@ -11,7 +11,7 @@
 
 
 
-//  Task 2 – Student Grade
+//     // Task 2 – Student Grade
 
 // function checkGrade(marks) {
 //   if (marks >= 80) {
@@ -40,7 +40,7 @@
 // checkGrade(55);  // Pass
 // checkGrade(30);  // Fail
 
-// Task 3 – Even Numbers
+// // Task 3 – Even Numbers
 
 
 
@@ -50,7 +50,7 @@
 //   }
 // }
 
-// Task 4 – Reverse Counting
+// // Task 4 – Reverse Counting
 
 // let i = 10;
 
@@ -60,9 +60,9 @@
 // }
 
 
-// Task 5 – Array Operations
+// // Task 5 – Array Operations
 
-// let names = ["Ali", "Ahmed", "Sara", "Zain"];
+let names = ["Ali", "Ahmed", "Sara", "Zain"];
 
 // names.push("Fatima");
 // console.log(names); // ["Ali", "Ahmed", "Sara", "Zain", "Fatima"]
@@ -79,7 +79,7 @@
 // console.log(names);
 
 
-// Task 6 – Slice and Splice
+// // Task 6 – Slice and Splice
 
 // let numbers = [10, 20, 30, 40, 50, 60];
 
@@ -91,7 +91,7 @@
 // console.log("Sliced array:", sliced);
 // console.log("Original array after splice:", numbers);
 
-// Task 7 – object
+// // Task 7 – object
 
 // let student = {
 //   name: "Ali",
@@ -122,7 +122,7 @@
 //   console.log(`${student.name} scored ${student.marks} marks.`);
 // });
 
-// Bonus Challenge
+// // Bonus Challenge
 
 // function findTopper(students) {
 //   let topper = students[0];
